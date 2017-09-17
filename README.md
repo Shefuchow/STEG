@@ -1,6 +1,6 @@
 # STEG //BigRedHacks2017
 
-A Web Application tasked with the mission to try and bridge the educational oppurtunity gap in the computer science field in smaller suburban cities such as Buffalo, Rochestor and Syracuse. 
+A Web Application tasked with the mission to try and bridge the educational opportunity gap in the computer science field in smaller suburban cities such as Buffalo, Rochestor and Syracuse. 
 
 ## Getting Started
 
